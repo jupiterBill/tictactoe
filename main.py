@@ -199,6 +199,6 @@ def checkInput(userInput):
     else:
         return False
 
-print("git mofo world")
+print("git  world")
 
 main()
